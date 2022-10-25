@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divikjuneja17&label=Profile%20views&color=0e75b6&style=flat" alt="divikjuneja17" /> </p>
 <p><img align="right" src="https://github.com/Ayush23Dash/Ayush23Dash/blob/master/assets/progGif.gif" width="350px" alt="programmergif"></p>
 
-- 🔭 I’m currently working on **Student Accommodation Website.**
+- 🔭 I’m currently working on **10 HTML CSS Practice Projects.**
 
-- 🌱 I’m currently learning **Full Stack Web Development using PHP & MySQL.**
+- 🌱 I’m currently learning **JavaScript & ReactJS.**
 
 - 💬 Ask me about **any tech-related stuff.**
 
